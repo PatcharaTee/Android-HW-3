@@ -1,0 +1,7 @@
+<resources>
+    <!--app name-->
+    <string name="app_name">Quiz Game</string>
+
+    <!--pic description-->
+    <string name="driver_picture">Driver Picture</string>
+</resources>
